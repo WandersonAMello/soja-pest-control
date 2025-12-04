@@ -26,3 +26,30 @@ O conjunto de dados consiste em **6.410 imagens** de folhas de soja (500x500px),
 4. Execute o treino:
    ```bash
    python train_soja.py
+
+## 📚 Referências e Créditos
+
+Este projeto foi desenvolvido utilizando o conjunto de dados público disponibilizado por Maria Eloisa Mignoni.
+
+**Citação do Dataset:**
+> Mignoni, Maria Eloisa (2021), “Images of Soybean Leaves”, Mendeley Data, V1, doi: 10.17632/bycbh73438.1
+
+* **Link para o dataset**: [Mendeley Data](https://data.mendeley.com/datasets/bycbh73438/1)
+* **DOI**: [10.17632/bycbh73438.1](https://doi.org/10.17632/bycbh73438.1)
+
+---
+*Projeto desenvolvido para fins de estudo e portfólio em Visão Computacional.*
+
+<details>
+<summary>Ver citação em formato BibTeX</summary>
+
+```bibtex
+@misc{mignoni2021soybean,
+  author = {Mignoni, Maria Eloisa},
+  title = {Images of Soybean Leaves},
+  year = {2021},
+  publisher = {Mendeley Data},
+  version = {V1},
+  doi = {10.17632/bycbh73438.1},
+  url = {[https://data.mendeley.com/datasets/bycbh73438/1](https://data.mendeley.com/datasets/bycbh73438/1)}
+}
