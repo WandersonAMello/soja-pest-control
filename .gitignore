@@ -1,0 +1,7 @@
+dataset_soja/
+resultado_soja/
+modelo_soja_final/
+__pycache__/
+*.ipynb_checkpoints
+
+venv/
