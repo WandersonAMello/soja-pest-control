@@ -13,7 +13,7 @@ O objetivo é fornecer uma ferramenta para diagnóstico rápido, permitindo cont
 ## 🛠️ Tecnologias
 * **Modelo**: Vision Transformer (ViT-base-patch16-224) via *Transfer Learning*.
 * **Frameworks**: PyTorch, Hugging Face Transformers, Datasets.
-* **Acurácia**: XX% (Preencha após rodar o treino).
+* **Acurácia**: XX%.
 
 ## 📊 O Dataset
 O conjunto de dados consiste em **6.410 imagens** de folhas de soja (500x500px), capturadas via smartphones e drones em ambiente não controlado.
